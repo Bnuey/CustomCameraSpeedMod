@@ -13,8 +13,8 @@ After installing the mod launch the game, and then close it again.
 
 <h2>If you DO NOT have BepInEx already installed into your game's directory</h2>
   1. Grab the "CustomizableCameraBUTIDontHaveBepinexInstalledAlready.zip" release from the <a href="https://github.com/Bnuey/CustomCameraSpeedMod/releases">Releases</a> tab
-  2. Drop everything into your game's root directory (the one with Garden Galaxy.exe in it)
+  <br>2. Drop everything into your game's root directory (the one with Garden Galaxy.exe in it)
 
 <h2>If you have BepInEx installed and just need the .dll</h2>
   1. Grab the "CustomizableCameraSpeedMod.zip" from the <a href="https://github.com/Bnuey/CustomCameraSpeedMod/releases">Releases</a> tab
-  2. Drop the .dll file into the BepInEx/plugins folder
+  <br>2. Drop the .dll file into the BepInEx/plugins folder
