@@ -2,12 +2,9 @@
 This mod lets you customize how fast the camera moves when using WASD.
 This mod DOES NOT affect how fast the camera moves when using the middle mouse button, only WASD.
 
-<br>
-<br>
 <h1>Usage</h1>
 Press LeftShift to toggle fast movement on and off
 
-<br><br>
 <h1>Customization</h1>
 After installing the mod launch the game, and then close it again.
 <br>This will generate a config file located at BepInEx/config/Bnuey.FasterMovementMod
@@ -15,7 +12,6 @@ After installing the mod launch the game, and then close it again.
 <br>In this file, simply change the Camera Zoomed In/Out Speed.
 <br>Garden Galaxy allows you to change how fast the camera moves when you are zoomed in and when you are zoomed out, hence the two variables.
 
-<br>
 <h1>Installation</h1>
 
 <h2>If you DO NOT have BepInEx already installed into your game's directory</h2>
